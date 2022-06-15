@@ -36,6 +36,8 @@ Ctrl + ... -> Anar al principi o al final d'una linia
 Ctrl + C -> Copiar una linia sense estar seleccionada
 Ctrl + V -> Enganxar la linia
 Ctrl + D -> Seleccionar la paraula (despres puc fer Ctrl + F per buscar o Ctrl + C per copiar)
+Ctrl + L -> Expandeix la seleccio a la seguent linia
+Shift + Alt + RightArrow -> Expandeix la seleccio de paraula a linia a paragraf a tot
 
 ## Settings
 
@@ -57,6 +59,22 @@ Llista:
 * Halcyon Theme
 * One Dark Pro
 * Winter is Comming Themme
+
+## Altres
+
+Quakka (per js)
+Live Server
+Marckdown preview Enhanced
+Ctrl-k +v -> Open preview to the side
+Ctrl + Shift + V Open Preview
+
+## Keyboard Shortcuts
+
+Settings > Keyboard Shortcuts or Ctrl + K + Ctrl + S
+
+## Snippets
+
+clg -> console.log()
 
 ------------------------------------
 
