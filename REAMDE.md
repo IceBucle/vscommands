@@ -2,6 +2,7 @@
 
 Ctrl + Shift + P -> Barra de busqueda
 Ctrl + Shift + ñ -> New Terminal
+Ctrl + ñ -> Open Terminal
 
 ## General
 
