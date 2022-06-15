@@ -1,0 +1,5 @@
+# Terminal
+
+## PowerShell
+
+notepad $profile
