@@ -1,6 +1,7 @@
 # VSC Commands
 
 Ctrl + Shift + P -> Barra de busqueda
+Ctrl + Shift + ñ -> New Terminal
 
 ## General
 
@@ -34,6 +35,30 @@ Ctrl + Arrow (Esquerra o Dreta) -> Passar al final o al principi d'una paraula
 Ctrl + ... -> Anar al principi o al final d'una linia
 Ctrl + C -> Copiar una linia sense estar seleccionada
 Ctrl + V -> Enganxar la linia
+Ctrl + D -> Seleccionar la paraula (despres puc fer Ctrl + F per buscar o Ctrl + C per copiar)
+
+## Settings
+
+Ctrl + , -> Open Settings
+cursor (Blinking, Style)
+
+## Themes
+
+Ctrl + Shift + P > themes (seleccionar tema)
+
+Llista:
+
+* Andromeda
+* Atom One Dark Theme
+* City Lights theme
+* Cobalt2 Theme Official
+* Cold Horizon Theme
+* Dracula Official
+* Halcyon Theme
+* One Dark Pro
+* Winter is Comming Themme
+
+------------------------------------
 
 ## Zen mode
 
@@ -48,3 +73,12 @@ pip freeze > requeriments.txt
 
 Alt + B -> open in default browser
 Shift + Alt + B -> open in specified browser
+
+## Recordar
+
+Utilitzar Intellisense amb les fletxetes (up i down) i enter
+
+### Emmet
+
+html: li*3 input:text
+css: p10 m10
