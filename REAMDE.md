@@ -31,7 +31,9 @@ Ctrl + Alt + Enter -> Replace All
 ## Navigate and Editing text
 
 Ctrl + Arrow (Esquerra o Dreta) -> Passar al final o al principi d'una paraula
-Ctrl a
+Ctrl + ... -> Anar al principi o al final d'una linia
+Ctrl + C -> Copiar una linia sense estar seleccionada
+Ctrl + V -> Enganxar la linia
 
 ## Zen mode
 
