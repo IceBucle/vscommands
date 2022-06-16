@@ -53,6 +53,8 @@ Shift + Alt + RightArrow -> Expandeix la seleccio de paraula a linia a paragraf 
 ```javascript
 Ctrl + Shift + Ñ -> New Terminal
 Ctrl + Ñ -> Open Terminal
+Afegir Ctrl + W -> Close Terminal
+Ctrl + ` -> Per obrir i tancar la terminal
 ```
 
 ## :gear: Settings
