@@ -97,7 +97,7 @@ or Settings > Keyboard Shortcuts
 ## :gem: Snippets
 
 Configure User Snippets
-Utilitzar un fitxer per cada llenguatge
+Utilitzar un fitxer per cada llenguatge .js .py
 ex: clg -> console.log()
 
 ## :recycle: Settings Sync is On
