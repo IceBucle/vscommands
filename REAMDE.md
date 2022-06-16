@@ -1,10 +1,11 @@
-# VSC Commands
+# :ballot_box_with_check: VSC Commands
 
 ```javascript
 Ctrl + Shift + P -> Barra de busqueda
+Ctrl + Alt + N -> Run code
 ```
 
-## General
+## :art: General
 
 ```javascript
 Ctrl + B -> Per obrir i tancar la barra vertical del menu
@@ -15,7 +16,7 @@ Ctrl + Shift + D -> . Debugger
 Ctrl + Shift + X -> . Extensions
 ```
 
-## Files
+## :file_folder: Files
 
 ```javascript
 Ctrl + W -> Per tancar un arxiu
@@ -24,7 +25,7 @@ Ctrl + Shift + Tab -> (ordre invers)
 Ctrl + P -> Per buscar i obrir fitxers
 ```
 
-## Search and Replace
+## :airplane: Search and Replace
 
 ```javascript
 Ctrl + F -> Find Window
@@ -35,7 +36,7 @@ Enter -> Replace
 Ctrl + Alt + Enter -> Replace All
 ```
 
-## Navigate and Editing text
+## :bookmark_tabs: Navigate and Editing text
 
 ```javascript
 Ctrl + Arrow right or left -> Passar al final o al principi d'una paraula
@@ -47,21 +48,21 @@ Ctrl + L -> Expandeix la seleccio a la seguent linia
 Shift + Alt + RightArrow -> Expandeix la seleccio de paraula a linia a paragraf a tot
 ```
 
-## Terminal
+## :computer: Terminal
 
 ```javascript
 Ctrl + Shift + Ñ -> New Terminal
 Ctrl + Ñ -> Open Terminal
 ```
 
-## Settings
+## :gear: Settings
 
 ```javascript
 Ctrl + , -> Open Settings
 per exemple cursor o font 'cascadia code', 'Fira Code', 'Consolas', 'monospace'
 ```
 
-## Themes
+## :snowflake: Themes
 
 ```javascript
 Ctrl + Shift + P > theme (seleccionar tema)
@@ -77,51 +78,47 @@ Ctrl + Shift + P > theme (seleccionar tema)
 * One Dark Pro
 * Winter is Comming Themme
 
-## Altres
-
-Quokka (per js)
-Live Server
-Marckdown preview Enhanced
+## :mag: Marckdown preview Enhanced
 
 ```javascript
-Ctrl-K + V -> Open preview to the side
+Ctrl + K - V -> Open preview to the side
 Ctrl + Shift + V -> Open Preview
 ```
 
-## Keyboard Shortcuts
+## :books: Keyboard Shortcuts
 
 ```javascript
 Ctrl + K + Ctrl + S
 or Settings > Keyboard Shortcuts
 ```
 
-## Snippets
+## :gem: Snippets
 
 clg -> console.log()
 
 ------------------------------------
 
-## Zen mode
+## :dvd: Zen mode
 
 ```javascript
 Ctrl + Shift + P > View: Toggle Zen Mode
 ```
 
-## Per saber els requeriments
+## :memo: Per saber els requeriments
 
 ```bash
 pip freeze
 pip freeze > requeriments.txt
 ```
 
-## Open in browser (extension)
+## :globe_with_meridians: Open in browser (extension)
 
 ```python
 Alt + B -> default
 Shift + Alt + B -> specified
 ```
 
-## Recordar
+## :curly_loop: Recordar
 
 Utilitzar **Intellisense** amb les fletxetes (up i down) i enter
 
