@@ -94,9 +94,15 @@ or Settings > Keyboard Shortcuts
 
 ## :gem: Snippets
 
-clg -> console.log()
+Configure User Snippets
+Utilitzar un fitxer per cada llenguatge
+ex: clg -> console.log()
 
-------------------------------------
+## :recycle: Settings Sync is On
+
+Per guardar i poder utilitzar tota la configuracio en un altre ordinador
+
+----
 
 ## :dvd: Zen mode
 
