@@ -34,6 +34,9 @@ Enter -> Next match
 Fletxeta cap abaix -> Replace Window
 Enter -> Replace
 Ctrl + Alt + Enter -> Replace All
+Ctrl + P + @ -> Scroll to symbols
+Ctrl + Shift + . -> Buscar symbols
+Ctrl + Shift + # -> Busca global
 ```
 
 ## :bookmark_tabs: Navigate and Editing text
@@ -42,10 +45,18 @@ Ctrl + Alt + Enter -> Replace All
 Ctrl + Arrow right or left -> Passar al final o al principi d'una paraula
 Ctrl + ... -> Anar al principi o al final d'una linia
 Ctrl + C -> Copiar una linia sense estar seleccionada
+Ctrl + X -> Cut line
 Ctrl + V -> Enganxar la linia
 Ctrl + D -> Seleccionar la paraula, (despres puc fer Ctrl + F per buscar o Ctrl + C per copiar)
 Ctrl + L -> Expandeix la seleccio a la seguent linia
+Shift + Arrow right or left -> Expandeix la seleccio per caracters
 Shift + Alt + RightArrow -> Expandeix la seleccio de paraula a linia a paragraf a tot
+Alt + Click -> Multiple cursors
+Alt + Arrow up or down -> Per moure una linia de posicio
+Alt + Shift + Arrow up or down -> Per copiar la linia a la posicio
+Ctrl + / -> Comentar text seleccionat
+Ctrl + K - Ctrl + C -> Commentar
+Ctrl + K - Ctrl + U -> Descommentar
 ```
 
 ## :computer: Terminal
@@ -55,6 +66,8 @@ Ctrl + Shift + Ñ -> New Terminal
 Ctrl + Ñ -> Open Terminal
 Afegir Ctrl + W -> Close Terminal
 Ctrl + ` -> Per obrir i tancar la terminal
+Ctrl + Arrow right or left -> Passar al final o al principi d'una paraula
+Ctrl + K -> Clear Terminal
 ```
 
 ## :gear: Settings
@@ -125,6 +138,11 @@ pip freeze > requeriments.txt
 Alt + B -> default
 Shift + Alt + B -> specified
 ```
+
+## Tasks
+
+task.json
+Tasks: Configure Default Build Task
 
 ## :curly_loop: Recordar
 
