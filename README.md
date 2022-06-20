@@ -119,6 +119,10 @@ Per guardar i poder utilitzar tota la configuracio en un altre ordinador
 
 ----
 
+## GitHub Pages
+
+Posar de nom al repositori: IceBucle.github.io
+
 ## :dvd: Zen mode
 
 ```javascript
