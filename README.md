@@ -134,6 +134,8 @@ Ctrl + Shift + P > View: Toggle Zen Mode
 ```bash
 pip freeze
 pip freeze > requeriments.txt
+
+pipreqs <directory-path>
 ```
 
 ## :globe_with_meridians: Open in browser (extension)
