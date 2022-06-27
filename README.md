@@ -133,9 +133,10 @@ Ctrl + Shift + P > View: Toggle Zen Mode
 
 ```bash
 pip freeze
-pip freeze > requeriments.txt
+pip freeze > requirements.txt
 
 pipreqs <directory-path>
+or cd dir: pipreqs -> Crea el fitxer requirements.txt
 ```
 
 ## :globe_with_meridians: Open in browser (extension)
