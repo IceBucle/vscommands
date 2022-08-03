@@ -15,3 +15,9 @@ C:\Users\Eloi\Downloads\libwebp-1.2.2-windows-x64\bin\cwebp.exe -q 50 img/ajani-
 ## Hacker terminal
 
 Tenir Docker: docker run --rm -it bcbcarl/hollywood
+
+### Quotes
+
+In the words of Abraham Lincoln:
+
+> Pardon my French
