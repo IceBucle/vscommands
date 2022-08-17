@@ -21,3 +21,7 @@ Tenir Docker: docker run --rm -it bcbcarl/hollywood
 In the words of Abraham Lincoln:
 
 > Pardon my French
+
+## Terminal command line autocomplete
+
+Ctrl + R
