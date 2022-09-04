@@ -1,4 +1,4 @@
-# Terminal
+# :computer: Terminal
 
 ## PowerShell
 
@@ -22,6 +22,11 @@ In the words of Abraham Lincoln:
 
 > Pardon my French
 
-## Terminal command line autocomplete
+## :keyboard: Terminal command line autocomplete
 
 Ctrl + R
+
+
+## In Chrome
+
+Ctrl + Shift + I -> Inspeccionar
