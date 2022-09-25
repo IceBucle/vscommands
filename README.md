@@ -145,8 +145,8 @@ Ctrl + K -> Clear Terminal
 
 * Python - Bluloco Dark Theme
 * JavaScript - Atom One Dark Theme
-* PHP - SynthWave'84
-* HTML i CSS - One Monokay Theme
+* PHP - One Monokai Theme
+* HTML i CSS - Halcyon
 
 ## :mag: Marckdown Preview Enhanced
 
