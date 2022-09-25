@@ -121,7 +121,7 @@ Afegir Ctrl + W -> Close Terminal
 Ctrl + K -> Clear Terminal
 ```
 
-## :gear: Fonts
+## :black_nib: Fonts
 
 'mononoki NF', 'Fira Code', 'Consolas', 'cascadia code', 'monospace'
 
