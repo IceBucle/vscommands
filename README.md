@@ -187,6 +187,12 @@ or cd dir: pipreqs -> Crea el fitxer requirements.txt
 Alt + B -> default
 Shift + Alt + B -> specified
 ```
+## :flower_playing_cards: trailing spaces (extension)
+
+```
+F1 trailing spaces delete
+```
+
 
 ## :scroll: Tasks
 
